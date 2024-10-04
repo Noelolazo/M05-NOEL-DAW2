@@ -1,0 +1,10 @@
+import system
+/**
+ * 
+ */
+/**
+ * 
+ */
+module INICIAL {
+	system.out.println("Hola Mundo.");
+}
